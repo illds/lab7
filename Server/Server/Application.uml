@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>Application.Worker</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">Application.Commander</node>
+    <node x="246.0" y="554.0">Application.ObjectCheckerForServer</node>
+    <node x="0.0" y="554.0">Application.ServerConsole</node>
+    <node x="247.0" y="277.0">Application.EnterCommand</node>
+    <node x="0.0" y="277.0">Application.Worker</node>
+    <node x="341.0" y="0.0">Application.CollectionManager</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="296.0" y="316.0" />
+  <SelectedNodes>
+    <node>Application.ObjectCheckerForServer</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
